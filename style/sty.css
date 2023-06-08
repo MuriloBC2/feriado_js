@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: orange;
+    font-size: 45px;
+    font-weight: 300px;
+}
+
+li{
+   font-size: 20px;
+   font-weight: 100px;
+}
+
+.background{
+    height: 500px;
+    width: 100%;
+    background-image: url('https://images.unsplash.com/photo-1685948595028-3c5023244556?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+
+}
